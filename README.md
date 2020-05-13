@@ -1,2 +1,2 @@
 # FoodOrderSystem
-# This project is a group project implemented by students of Cyprus University of Technology in the course 350. 
+# This project is a group project implemented by students of Cyprus University of Technology in the course CIS352 (Advanced Topics in Programming). 
